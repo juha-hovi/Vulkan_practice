@@ -1,6 +1,6 @@
 # Own stuff
-#vendor/
-#bin/
+vendor/
+bin/
 
 # Prerequisites
 *.d
