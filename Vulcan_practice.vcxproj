@@ -143,6 +143,11 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\basicFragment.shader" />
+    <None Include="shaders\basicVertex.shader" />
+    <None Include="shaders\compile.bat" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
