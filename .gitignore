@@ -1,6 +1,7 @@
 # Own stuff
 vendor/
 bin/
+.vs/Vulcan_practice/
 
 # Prerequisites
 *.d
