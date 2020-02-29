@@ -22,8 +22,5 @@
   <ItemGroup>
     <None Include="shaders\basicVertex.shader" />
     <None Include="shaders\basicFragment.shader" />
-    <None Include="shaders\compile.bat">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
 </Project>
